@@ -1,5 +1,6 @@
 # CollectMeUnity2d
-Unity2d Game available on Play Store https://play.google.com/store/apps/details?id=com.mobiapps.collectme
+
+Unity2d Game available on Play Store: https://play.google.com/store/apps/details?id=com.mobiapps.collectme
 
 Collect Me! is a tapping gaming, collect the golden coins and never collect the red coins.
 
