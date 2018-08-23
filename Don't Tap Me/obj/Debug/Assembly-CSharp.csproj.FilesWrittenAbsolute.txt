@@ -1,0 +1,17 @@
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/UnityEngine.dll
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/UnityEditor.dll
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/Mono.Cecil.dll
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/Unity.DataContract.dll
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/User/Desktop/Don't Tap Me/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/User/Desktop/Don't Tap Me/obj/Debug/Assembly-CSharp.dll
+/Users/User/Desktop/Don't Tap Me/obj/Debug/Assembly-CSharp.dll.mdb
