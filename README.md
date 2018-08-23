@@ -15,3 +15,7 @@ Collect Me! is a tapping gaming, collect the golden coins and never collect the 
 ★ Challenge your friends!
 
 Join the most amazing tap game!
+
+
+Promo video: https://youtu.be/-Q7jhAKxPI8
+How to share video: https://youtu.be/FCu_4QB-AqU
